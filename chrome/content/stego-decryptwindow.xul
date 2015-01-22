@@ -10,11 +10,6 @@
             src="chrome://browser-stego/content/js/Stego.js"/>
 
 
-    <stringbundleset id="stringbundleset">
-        <stringbundle id="stego-string-bundle"
-                      src="chrome://browser-stego/locale/browserOverlay.properties"/>
-    </stringbundleset>
-
     <vbox>
         <groupbox align="start">
             <grid>
